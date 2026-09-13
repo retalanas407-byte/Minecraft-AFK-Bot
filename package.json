@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "mineflayer": "^4.37.1"
-  }
+  }"dependencies"
 }
   
